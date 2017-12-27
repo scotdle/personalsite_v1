@@ -1,0 +1,100 @@
+@font-face{ 
+	font-family: 'League Gothic Regular';
+	src: url('leaguegothic-regular-webfont.eot');
+	src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('leaguegothic-regular-webfont.woff') format('woff'),
+	     url('leaguegothic-regular-webfont.ttf') format('truetype'),
+	     url('leaguegothic-regular-webfont.svg#webfont') format('svg');
+}
+
+
+
+html { 
+background-image: url('../contactme.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+ margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+   
+    }
+
+h1{
+       font-family: 'League Gothic Regular';
+text-align: center;
+    font-size: 60px;
+     color: #add9f4;
+  left: 0px;
+    right: 0px;
+
+  position: absolute;
+       margin-left: auto;
+    margin-right: auto;
+	min-width: 1260px;
+    top: 280px;
+background-color: rgba(0, 0, 0, 0.67)
+}
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+p {
+    
+    font-family: 'League Gothic Regular';
+text-align: center;
+    font-size: 30px;
+     color: #add9f4;
+    position: absolute;
+	left: 0px;
+    right: 0px;
+    padding: 5px;
+    top: 689px;
+      margin-left: auto;
+    margin-right: auto;
+background-color: rgba(0, 0, 0, 0.67);
+    min-width: 1260px;
+}
+
+    
+    
+
+.socialmediass{
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top:515px;
+   
+
+    min-width: 1200px;
+    background-color:rgba(0, 0, 0, 0.67);
+    
+    
+}
+
+
+
+
+
+.copyrights{
+    font-family: 'League Gothic Regular';
+     color: #add9f4;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top:570px;
+    background-color:rgba(0, 0, 0, 0.67);
+
+    min-width: 1200px;
+  
+    
+    
+}
